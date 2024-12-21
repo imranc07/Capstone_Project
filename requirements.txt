@@ -1,0 +1,6 @@
+pytest
+selenium
+pytest-html
+webdriver-manager
+openpyxl
+random2
